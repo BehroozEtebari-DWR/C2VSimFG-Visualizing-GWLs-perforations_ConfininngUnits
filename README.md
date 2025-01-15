@@ -1,1 +1,1 @@
-# A PreProcessing Tool for Visualizing GWLs+perforations+ConfiningUnits of  the Central Valley C2VSimFG Numerical Integrated SurfaceWater- Groundwater Regional Model
+# A PreProcessing Tool for Visualizing Groundwater Levels + Screened Intervals + Confining Units of the Regional Central Valley Basin C2VSimFG  Integrated  Numerical  SurfaceWater-Groundwater Flow Model
